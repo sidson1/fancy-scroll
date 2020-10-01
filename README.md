@@ -33,7 +33,7 @@ $(window).fancy_scroll({
 ````
 
 ## Advanced Usage
-Fancy Scroll can also be applied to divs rather than the whole document as well. All you have to do is prepare an html as follows:
+Fancy Scroll can also be applied to divs rather than the whole document as well. All you have to do is prepare an html as below:
 
 ````html
 <div class="container">
